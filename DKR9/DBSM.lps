@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="DBSM.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="main_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main_unit"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="65"/>
+        <CursorPos X="25" Y="76"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="edit_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="EditForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="112" Y="11"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="quary_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="QuaryForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ack_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DialogForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="44" Y="10"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="518" Column="72" TopLine="518"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="520" Column="72" TopLine="520"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="522" Column="72" TopLine="522"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="524" Column="72" TopLine="524"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="523" Column="72" TopLine="523"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="522" Column="72" TopLine="522"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="524" Column="72" TopLine="524"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="523" Column="72" TopLine="523"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="529" Column="72" TopLine="529"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="474" TopLine="474"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="546" TopLine="546"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="553" TopLine="553"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="556" TopLine="556"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="568" TopLine="568"/>
+      </Position>
+      <Position>
+        <Filename Value="quary_unit.pas"/>
+        <Caret Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="575" Column="34" TopLine="556"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="612" Column="31" TopLine="579"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="617" Column="260" TopLine="593"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="274" Column="120" TopLine="259"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="267" Column="48" TopLine="258"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="575" Column="111" TopLine="565"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="687" Column="11" TopLine="661"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="649" Column="31" TopLine="649"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="486" Column="23" TopLine="468"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="496" Column="12" TopLine="414"/>
+      </Position>
+      <Position>
+        <Filename Value="DBSM.lpr"/>
+        <Caret Line="27" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="538" Column="58" TopLine="512"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="535" Column="18" TopLine="527"/>
+      </Position>
+      <Position>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="179" Column="54" TopLine="149"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

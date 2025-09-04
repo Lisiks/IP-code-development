@@ -1,0 +1,698 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Страница — 1" id="cupCCccS1YEyiFri0duE">
+    <mxGraphModel dx="1158" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-1" target="XNoCePa_uk9UZ-l07Zhv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-1" value="Select_buttonClick&lt;div&gt;Начало&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-3" target="XNoCePa_uk9UZ-l07Zhv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-3" value="Ввод:&lt;div&gt;Sender&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-5" value="Sender - объект нажатой&lt;div&gt;кнопки. В качестве&lt;/div&gt;&lt;div&gt;данного параметра&amp;nbsp;&lt;/div&gt;&lt;div&gt;передается Select_button&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="127.5" width="20" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-3" target="XNoCePa_uk9UZ-l07Zhv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="210" as="sourcePoint" />
+            <mxPoint x="220" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;figure_box.text = &#39;Круг&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-11" target="XNoCePa_uk9UZ-l07Zhv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;figure_box.text = &#39;Прямоугольник&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-12" target="XNoCePa_uk9UZ-l07Zhv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;figure_box.text = &#39;Параллелограмм&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-14" value="par_form.show" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-7" target="XNoCePa_uk9UZ-l07Zhv-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="230" as="sourcePoint" />
+            <mxPoint x="260" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-11" target="XNoCePa_uk9UZ-l07Zhv-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="280" as="sourcePoint" />
+            <mxPoint x="390" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-17" value="trap_form.show" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-18" value="rectangle_form.&lt;div&gt;show&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-19" target="XNoCePa_uk9UZ-l07Zhv-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-19" value="curcle_form.show" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="260" as="sourcePoint" />
+            <mxPoint x="190" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-24" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-25" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-26" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-27" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-28" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-29" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-30" value="Select_buttonClick&lt;div&gt;Конец&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="460" as="sourcePoint" />
+            <mxPoint x="530" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="460" as="sourcePoint" />
+            <mxPoint x="270" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="400" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-35" value="figure_box - объект формы,&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;принадлежащий классу ComboBox.&lt;/span&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;выбранную строчку списка&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="230" as="sourcePoint" />
+            <mxPoint x="390" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-37" value="show - метод класса Form,&lt;div&gt;необходимый для отображения&lt;/div&gt;&lt;div&gt;формы на экран&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="390" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-39" target="XNoCePa_uk9UZ-l07Zhv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-39" value="Rezult_buttonClick&lt;br&gt;&lt;div&gt;Начало&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-41" target="XNoCePa_uk9UZ-l07Zhv-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-41" value="Ввод:&lt;div&gt;Sender&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-42" value="Sender - объект нажатой&lt;div&gt;кнопки. В качетсве данного параметра&amp;nbsp;&lt;/div&gt;&lt;div&gt;передается Result_button&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="652.5" width="20" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-41" target="XNoCePa_uk9UZ-l07Zhv-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="730" as="sourcePoint" />
+            <mxPoint x="350" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-44" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;R_edit.text = &#39;&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-53" value="S_edit.text =&amp;nbsp;floattostr(&lt;div&gt;Power(strtofloat&lt;/div&gt;&lt;div&gt;(R_edit.Text), 2) * 3.14159265359)&amp;nbsp;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="870" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-55" target="XNoCePa_uk9UZ-l07Zhv-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-55" value="showmessage&lt;div&gt;(&#39;Недостаточно данных для рассчета&#39;)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="780" as="sourcePoint" />
+            <mxPoint x="320" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-58" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-61" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-64" value="Rezult_buttonClick&lt;br&gt;&lt;div&gt;Конец&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="980" as="sourcePoint" />
+            <mxPoint x="400" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-71" value="&lt;div&gt;R_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="720" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-72" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="750" as="sourcePoint" />
+            <mxPoint x="480" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="750" as="sourcePoint" />
+            <mxPoint x="380" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-75" value="&lt;div&gt;S_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;&lt;div&gt;Power - функция для возведения&lt;/div&gt;&lt;div&gt;параметра 1 в стопень - параметр 2&lt;/div&gt;&lt;div&gt;floattostr - функция, которая&lt;/div&gt;&lt;div&gt;преобразует данные вещественного&lt;/div&gt;&lt;div&gt;типа в данные строчного&lt;/div&gt;&lt;div&gt;strtofloat - функция, которая&lt;/div&gt;&lt;div&gt;преобразует данные строчного типа&lt;/div&gt;&lt;div&gt;в данные вещественного&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="827.5" width="20" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="970" as="sourcePoint" />
+            <mxPoint x="480" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-78" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="170" y="905" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-79" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="990" as="sourcePoint" />
+            <mxPoint x="210" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-80" value="showmessage - функция для вывода окна с переданным сообщением" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="915" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-84" target="XNoCePa_uk9UZ-l07Zhv-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-84" value="Rezult_buttonClick&lt;br&gt;&lt;div&gt;Начало&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-86" target="XNoCePa_uk9UZ-l07Zhv-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-86" value="Ввод:&lt;div&gt;Sender&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-87" value="Sender - объект нажатой&lt;div&gt;кнопки. В качетсве данного параметра&amp;nbsp;&lt;/div&gt;&lt;div&gt;передается Result_button&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="132.5" width="20" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-88" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-86" target="XNoCePa_uk9UZ-l07Zhv-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="210" as="sourcePoint" />
+            <mxPoint x="1230" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-89" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;A_edit.text = &#39;&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-92" target="XNoCePa_uk9UZ-l07Zhv-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-92" value="showmessage&lt;div&gt;(&#39;Введите длинну стороны А&#39;)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="260" as="sourcePoint" />
+            <mxPoint x="1200" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-94" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-95" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-96" value="Rezult_buttonClick&lt;br&gt;&lt;div&gt;Конец&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="460" as="sourcePoint" />
+            <mxPoint x="1280" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-98" value="&lt;div&gt;A_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1364" y="210" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-99" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="230" as="sourcePoint" />
+            <mxPoint x="1360" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-100" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="230" as="sourcePoint" />
+            <mxPoint x="1280" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-101" value="&lt;div&gt;S_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;&lt;div&gt;floattostr - функция, которая&lt;/div&gt;&lt;div&gt;преобразует данные вещественного&lt;/div&gt;&lt;div&gt;типа в данные строчного&lt;/div&gt;&lt;div&gt;strtofloat - функция, которая&lt;/div&gt;&lt;div&gt;преобразует данные строчного типа&lt;/div&gt;&lt;div&gt;в данные вещественного&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="335" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-103" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="385" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-104" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="470" as="sourcePoint" />
+            <mxPoint x="1090" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-105" value="showmessage - функция для вывода окна с переданным сообщением" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="395" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-106" target="XNoCePa_uk9UZ-l07Zhv-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-106" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;B_edit.text = &#39;&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-107" value="showmessage&lt;div&gt;(&#39;Введите длинну стороны B&#39;)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-109" value="&lt;div&gt;B_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="260" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-110" value="&amp;nbsp;S_edit.Text := floattostr(&lt;div&gt;strtofloat(&lt;/div&gt;&lt;div&gt;A_edit.Text) * strtofloat(&lt;/div&gt;&lt;div&gt;B_edit.Text))&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="340" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1340" y="280" as="sourcePoint" />
+            <mxPoint x="1390" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1410" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-112" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="460" as="sourcePoint" />
+            <mxPoint x="1410" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1410" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-113" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="280" as="sourcePoint" />
+            <mxPoint x="1530" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-114" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-110" target="XNoCePa_uk9UZ-l07Zhv-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1430" y="450" as="sourcePoint" />
+            <mxPoint x="1480" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-116" target="XNoCePa_uk9UZ-l07Zhv-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-116" value="Rezult_buttonClick&lt;br&gt;&lt;div&gt;Начало&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-118" target="XNoCePa_uk9UZ-l07Zhv-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-118" value="Ввод:&lt;div&gt;Sender&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-119" value="Sender - объект нажатой&lt;div&gt;кнопки. В качетсве данного параметра&amp;nbsp;&lt;/div&gt;&lt;div&gt;передается Result_button&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="652.5" width="20" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-120" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-118" target="XNoCePa_uk9UZ-l07Zhv-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="730" as="sourcePoint" />
+            <mxPoint x="1230" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-121" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;A_edit.text = &#39;&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-123" target="XNoCePa_uk9UZ-l07Zhv-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-123" value="showmessage&lt;div&gt;(&#39;Введите длинну основания&#39;)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-124" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-123">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="780" as="sourcePoint" />
+            <mxPoint x="1200" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-125" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-126" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-127" value="Rezult_buttonClick&lt;br&gt;&lt;div&gt;Конец&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-128" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="980" as="sourcePoint" />
+            <mxPoint x="1280" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-129" value="&lt;div&gt;A_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1364" y="730" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-130" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="750" as="sourcePoint" />
+            <mxPoint x="1360" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-131" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="750" as="sourcePoint" />
+            <mxPoint x="1280" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-132" value="&lt;div&gt;S_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;&lt;div&gt;floattostr - функция, которая&lt;/div&gt;&lt;div&gt;преобразует данные вещественного&lt;/div&gt;&lt;div&gt;типа в данные строчного&lt;/div&gt;&lt;div&gt;strtofloat - функция, которая&lt;/div&gt;&lt;div&gt;преобразует данные строчного типа&lt;/div&gt;&lt;div&gt;в данные вещественного&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="855" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-133" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="905" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-134" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-133">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="990" as="sourcePoint" />
+            <mxPoint x="1090" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-135" value="showmessage - функция для вывода окна с переданным сообщением" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="915" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-137" target="XNoCePa_uk9UZ-l07Zhv-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-137" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;H_edit.text = &#39;&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-138" value="showmessage&lt;div&gt;(&#39;Введите высоту&#39;)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-139" value="&lt;div&gt;H_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="780" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-140" value="&amp;nbsp;S_edit.Text := floattostr(&lt;div&gt;strtofloat(&lt;/div&gt;&lt;div&gt;A_edit.Text) * strtofloat(&lt;/div&gt;&lt;div&gt;H_edit.Text))&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="860" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-141" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1340" y="800" as="sourcePoint" />
+            <mxPoint x="1390" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1410" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-142" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="980" as="sourcePoint" />
+            <mxPoint x="1410" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1410" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-143" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="800" as="sourcePoint" />
+            <mxPoint x="1530" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-144" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-140" target="XNoCePa_uk9UZ-l07Zhv-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1430" y="970" as="sourcePoint" />
+            <mxPoint x="1480" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-146" target="XNoCePa_uk9UZ-l07Zhv-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-146" value="Rezult_buttonClick&lt;br&gt;&lt;div&gt;Начало&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-148" target="XNoCePa_uk9UZ-l07Zhv-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-148" value="Ввод:&lt;div&gt;Sender&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-149" value="Sender - объект нажатой&lt;div&gt;кнопки. В качетсве данного параметра&amp;nbsp;&lt;/div&gt;&lt;div&gt;передается Result_button&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="187.5" width="20" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-150" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-148" target="XNoCePa_uk9UZ-l07Zhv-149">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2100" y="265" as="sourcePoint" />
+            <mxPoint x="2150" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-151" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;O1_edit.text = &#39;&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-153" value="showmessage&lt;div&gt;(&#39;Введите длину первого основания&#39;)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-154" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-153">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2070" y="315" as="sourcePoint" />
+            <mxPoint x="2120" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-155" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-156" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-157" value="Rezult_buttonClick&lt;br&gt;&lt;div&gt;Конец&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-159" value="&lt;div&gt;O1_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2284" y="265" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-160" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2200" y="285" as="sourcePoint" />
+            <mxPoint x="2280" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-161" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130" y="285" as="sourcePoint" />
+            <mxPoint x="2200" y="305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2200" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-162" value="&lt;div&gt;S_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;&lt;div&gt;floattostr - функция, которая&lt;/div&gt;&lt;div&gt;преобразует данные вещественного&lt;/div&gt;&lt;div&gt;типа в данные строчного&lt;/div&gt;&lt;div&gt;strtofloat - функция, которая&lt;/div&gt;&lt;div&gt;преобразует данные строчного типа&lt;/div&gt;&lt;div&gt;в данные вещественного&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="430" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-163" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="440" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-164" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-163">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1960" y="525" as="sourcePoint" />
+            <mxPoint x="2010" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-165" value="showmessage - функция для вывода окна с переданным сообщением" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="450" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-167" target="XNoCePa_uk9UZ-l07Zhv-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-167" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;H_edit.text = &#39;&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-168" value="showmessage&lt;div&gt;(&#39;Введите высоту&#39;)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-169" value="&lt;div&gt;H_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="315" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-173" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2320" y="335" as="sourcePoint" />
+            <mxPoint x="2450" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-175" target="XNoCePa_uk9UZ-l07Zhv-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-175" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;O2_edit.text = &#39;&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-176" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-167" target="XNoCePa_uk9UZ-l07Zhv-175">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2260" y="340" as="sourcePoint" />
+            <mxPoint x="2310" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2330" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-177" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-178" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1324" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-179" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2244" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-181" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-182" value="showmessage&lt;div&gt;(&#39;Введите длину второго основания&#39;)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-184" value="&lt;div&gt;O2_edit - объект формы, принадлежащий&lt;/div&gt;&lt;div&gt;классу edit.&lt;/div&gt;&lt;div&gt;text - атрибут, содержищий&lt;/div&gt;&lt;div&gt;введенный в поле текст.&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="370" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-185" value="S_edit.Text := floattostr((&lt;div&gt;strtofloat(&lt;/div&gt;&lt;div&gt;O1_edit.Text) + strtofloat(&lt;/div&gt;&lt;div&gt;O2_edit.Text))/2 * (strtofloat(&lt;/div&gt;&lt;div&gt;H_edit.Text)))&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-186" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-185">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2390" y="390" as="sourcePoint" />
+            <mxPoint x="2440" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2460" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-187" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2460" y="390" as="sourcePoint" />
+            <mxPoint x="2590" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-188" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-189" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-190" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-185">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2540" y="540" as="sourcePoint" />
+            <mxPoint x="2590" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-191" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNoCePa_uk9UZ-l07Zhv-157">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2460" y="520" as="sourcePoint" />
+            <mxPoint x="2510" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2460" y="530" />
+              <mxPoint x="2070" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-192" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2070" y="530" as="sourcePoint" />
+            <mxPoint x="2070" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-193" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2200" y="530" as="sourcePoint" />
+            <mxPoint x="2200" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-194" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2320" y="530" as="sourcePoint" />
+            <mxPoint x="2320" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNoCePa_uk9UZ-l07Zhv-195" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XNoCePa_uk9UZ-l07Zhv-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="561" y="468" as="sourcePoint" />
+            <mxPoint x="611" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
